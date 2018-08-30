@@ -1,6 +1,6 @@
 Lim Teck-Beng
 Singaporean
 fav animal
-fav color = red
+fav color = red + blue
 
 COPYRIGHT 2018
